@@ -1,0 +1,14 @@
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\bin\Debug\netcoreapp2.1\WebAPIxUnitExample.deps.json
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\bin\Debug\netcoreapp2.1\WebAPIxUnitExample.runtimeconfig.json
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\bin\Debug\netcoreapp2.1\WebAPIxUnitExample.runtimeconfig.dev.json
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\bin\Debug\netcoreapp2.1\WebAPIxUnitExample.dll
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\bin\Debug\netcoreapp2.1\WebAPIxUnitExample.pdb
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.csprojAssemblyReference.cache
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.csproj.CoreCompileInputs.cache
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.RazorAssemblyInfo.cache
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.RazorAssemblyInfo.cs
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.AssemblyInfoInputs.cache
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.AssemblyInfo.cs
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.RazorTargetAssemblyInfo.cache
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.dll
+E:\git\learn_dotNET\WebAPIxUnitExample\WebAPIxUnitExample\obj\Debug\netcoreapp2.1\WebAPIxUnitExample.pdb

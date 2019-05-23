@@ -1,0 +1,8 @@
+E:\git\learn_dotNET\WebAPIxUnitExample\unitTests\bin\Debug\netcoreapp2.1\unitTests.deps.json
+E:\git\learn_dotNET\WebAPIxUnitExample\unitTests\bin\Debug\netcoreapp2.1\unitTests.runtimeconfig.json
+E:\git\learn_dotNET\WebAPIxUnitExample\unitTests\bin\Debug\netcoreapp2.1\unitTests.runtimeconfig.dev.json
+E:\git\learn_dotNET\WebAPIxUnitExample\unitTests\bin\Debug\netcoreapp2.1\unitTests.dll
+E:\git\learn_dotNET\WebAPIxUnitExample\unitTests\obj\Debug\netcoreapp2.1\unitTests.csproj.CoreCompileInputs.cache
+E:\git\learn_dotNET\WebAPIxUnitExample\unitTests\obj\Debug\netcoreapp2.1\unitTests.AssemblyInfoInputs.cache
+E:\git\learn_dotNET\WebAPIxUnitExample\unitTests\obj\Debug\netcoreapp2.1\unitTests.AssemblyInfo.cs
+E:\git\learn_dotNET\WebAPIxUnitExample\unitTests\obj\Debug\netcoreapp2.1\unitTests.csprojAssemblyReference.cache
