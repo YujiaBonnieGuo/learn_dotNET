@@ -1,0 +1,30 @@
+﻿@Code
+    ViewData("Title") = "Index"
+End Code
+<html>
+<body>
+    @{
+    if (IsPost) {
+    string companyname = Request["companyname"];
+    string contactname = Request["contactname"];
+    <p>
+        You entered: <br />
+        Company Name: @companyname <br />
+        Contact Name: @contactname
+    </p>
+    }
+    else
+    {
+    <form method="post" action="">
+        Company Name:<br />
+        <input type="text" name="CompanyName" value="" /><br />
+        Contact Name:<br />
+        <input type="text" name="ContactName" value="" /><br /><br />
+        <input type="submit" value="Submit" class="submit" />
+    </form>
+    }
+    }
+</body>
+</html>
+<h2>Index</h2>
+

@@ -1,0 +1,14 @@
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\bin\Debug\netcoreapp2.1\TimeManagement.Test.deps.json
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\bin\Debug\netcoreapp2.1\TimeManagement.Test.runtimeconfig.json
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\bin\Debug\netcoreapp2.1\TimeManagement.Test.runtimeconfig.dev.json
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\bin\Debug\netcoreapp2.1\TimeManagement.Test.dll
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\bin\Debug\netcoreapp2.1\TimeManagement.Test.pdb
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\obj\Debug\netcoreapp2.1\TimeManagement.Test.csprojAssemblyReference.cache
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\obj\Debug\netcoreapp2.1\TimeManagement.Test.csproj.CoreCompileInputs.cache
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\obj\Debug\netcoreapp2.1\TimeManagement.Test.AssemblyInfoInputs.cache
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\obj\Debug\netcoreapp2.1\TimeManagement.Test.AssemblyInfo.cs
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\obj\Debug\netcoreapp2.1\TimeManagement.Test.dll
+E:\git\learn_dotNET\TimeManagement.Test\TimeManagement.Test\obj\Debug\netcoreapp2.1\TimeManagement.Test.pdb

@@ -1,0 +1,4 @@
+E:\git\learn_dotNET\FizzBuzzSystem\FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.csprojAssemblyReference.cache
+E:\git\learn_dotNET\FizzBuzzSystem\FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.csproj.CoreCompileInputs.cache
+E:\git\learn_dotNET\FizzBuzzSystem\FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.AssemblyInfoInputs.cache
+E:\git\learn_dotNET\FizzBuzzSystem\FizzBuzzTests\obj\Debug\netcoreapp2.1\FizzBuzzTests.AssemblyInfo.cs
