@@ -1,0 +1,45 @@
+﻿@page
+@model ListModel
+@{
+}
+<h1>Restaurants</h1>
+
+
+    <form method="get">
+<div class="form-group">
+    <div calss="input-group">
+        <input type="search" calss="form-control" value="" name="serchTerm"/>
+        <span calss="input-group-btn">
+            <button calss="btn btn-default">
+                <i class="glyphicon glyphicon-search"></i>
+            </button>
+        </span>
+    </div>
+</div>
+</form>
+    <table class="table">
+        <th>Introduction of Restaurant</th>
+        @foreach (var restaurant in Model.Restaurants)
+        {
+
+            <tr></tr>
+                <td>@restaurant.Name</td>
+                <td>@restaurant.Location</td>
+                <td>@restaurant.Cuisine</td>
+                <td>
+                    <a class="btn btn-lg"
+                       asp-page="./Detail"
+                       asp-route-restaurantId="@restaurant.Id">
+                        <i class="glyphicon glyphicon-zoom-in"></i>
+                    </a>
+                    <a class="btn btn-lg"
+                       asp-page="./Edit"
+                       asp-route-restaurantId="@restaurant.Id">
+                        <i class="glyphicon glyphicon-edit"></i>
+                    </a>
+                </td>
+            
+        }
+    </table>
+
+<div>@Model.Message</div>

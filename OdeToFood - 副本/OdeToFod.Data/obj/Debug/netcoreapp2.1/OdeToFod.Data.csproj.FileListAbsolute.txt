@@ -1,0 +1,12 @@
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\bin\Debug\netcoreapp2.1\OdeToFod.Data.deps.json
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\bin\Debug\netcoreapp2.1\OdeToFod.Data.dll
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\bin\Debug\netcoreapp2.1\OdeToFod.Data.pdb
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\obj\Debug\netcoreapp2.1\OdeToFod.Data.csprojAssemblyReference.cache
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\obj\Debug\netcoreapp2.1\OdeToFod.Data.csproj.CoreCompileInputs.cache
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\obj\Debug\netcoreapp2.1\OdeToFod.Data.AssemblyInfoInputs.cache
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\obj\Debug\netcoreapp2.1\OdeToFod.Data.AssemblyInfo.cs
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\obj\Debug\netcoreapp2.1\OdeToFod.Data.csproj.CopyComplete
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\obj\Debug\netcoreapp2.1\OdeToFod.Data.dll
+E:\git\learn_dotNET\OdeToFood\OdeToFod.Data\obj\Debug\netcoreapp2.1\OdeToFod.Data.pdb
